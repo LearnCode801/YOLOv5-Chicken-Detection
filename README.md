@@ -1,5 +1,7 @@
 # YOLOv5 Chicken Detection
 
+![YOLOv5 Chicken Detection Results](https://github.com/LearnCode801/YOLOv5-Chicken-Detection/blob/main/Screenshot%202025-09-21%20121057.png)
+
 A computer vision project implementing YOLOv5 for automated chicken detection in agricultural applications.
 
 ## Overview
